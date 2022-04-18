@@ -1,0 +1,12 @@
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\bin\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.deps.json
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\bin\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\bin\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ref\ExtremeSkins.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\bin\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeRoles.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.csproj.AssemblyReference.cache
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.AssemblyInfoInputs.cache
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.AssemblyInfo.cs
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.csproj.CoreCompileInputs.cache
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.csproj.CopyComplete
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ExtremeSkins.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeSkins\obj\Debug_NOHAT_AND_NONAMEPLATE\netstandard2.1\ref\ExtremeSkins.dll

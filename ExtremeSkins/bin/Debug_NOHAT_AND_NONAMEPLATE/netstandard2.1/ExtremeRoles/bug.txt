@@ -1,0 +1,12 @@
+
+バグ1：サーバー入って最初のオプションを開く
+[Error  :Unhollower] Exception in IL2CPP-to-Managed trampoline, not passing it to il2cpp: UnhollowerBaseLib.Il2CppException: System.ArgumentException: The Object you want to instantiate is null.
+
+  at UnhollowerBaseLib.Il2CppException.RaiseExceptionIfNecessary (System.IntPtr returnedException) [0x00014] in <139c2f4042e14f759ab7fb771030183f>:0
+  at UnityEngine.Object.Instantiate[T] (T original, UnityEngine.Transform parent) [0x0009f] in <a07faaab64a34f84a7e4fac0e7b95e6b>:0
+  at ExtremeRoles.Patches.Option.ClientOptionsPatch.setUpOptions () [0x004d6] in <a6725f4c2f604156a70d91c61741d60a>:0
+  at ExtremeRoles.Patches.Option.ClientOptionsPatch.refreshOpen () [0x00023] in <a6725f4c2f604156a70d91c61741d60a>:0
+  at ExtremeRoles.Patches.Option.ClientOptionsPatch+<>c__DisplayClass14_0.<initializeMoreButton>b__0 () [0x000bb] in <a6725f4c2f604156a70d91c61741d60a>:0
+  at (wrapper dynamic-method) UnhollowerRuntimeLib.DelegateSupport.(il2cpp delegate trampoline) System.Void(intptr,UnhollowerBaseLib.Runtime.Il2CppMethodInfo*)
+
+バグ2：ストリーマーモードのコード修正

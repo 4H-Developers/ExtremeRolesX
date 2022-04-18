@@ -1,0 +1,107 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\ExtremeRoles\\ExtremeRoles.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\ExtremeRoles\\ExtremeRoles.csproj": {
+      "version": "2.0.4-AmongUsV20220329",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\ExtremeRoles\\ExtremeRoles.csproj",
+        "projectName": "ExtremeRoles",
+        "projectPath": "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\ExtremeRoles\\ExtremeRoles.csproj",
+        "packagesPath": "C:\\Users\\li\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\ExtremeRoles\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\li\\Source\\Repos\\ExtremeRoles\\NuGet.Config",
+          "C:\\Users\\li\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.bepinex.dev/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "AmongUs.GameLibs.Steam": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2022.3.29, )"
+            },
+            "BepInEx.Analyzers": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.8, )"
+            },
+            "BepInEx.AutoPlugin": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "BepInEx.IL2CPP": {
+              "target": "Package",
+              "version": "[6.0.0-be.521, )"
+            },
+            "BepInEx.IL2CPP.MSBuild": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "BepInEx.Il2Cpp.TlsAdapter": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "HarmonyX": {
+              "target": "Package",
+              "version": "[2.9.0, )"
+            },
+            "Microsoft.CSharp": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

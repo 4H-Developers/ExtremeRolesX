@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ExtremeRoles</id>
+    <version>2.0.4-AmongUsV20220329</version>
+    <authors>yukieiji</authors>
+    <description>Extreme Roles for Advanced user</description>
+    <dependencies>
+      <group targetFramework=".NETStandard2.1">
+        <dependency id="BepInEx.IL2CPP" version="6.0.0-be.521" exclude="Build,Analyzers" />
+        <dependency id="BepInEx.Il2Cpp.TlsAdapter" version="1.0.1" exclude="Build,Analyzers" />
+        <dependency id="HarmonyX" version="2.9.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.CSharp" version="4.7.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\li\source\repos\ExtremeRoles\ExtremeRoles\bin\Debug\netstandard2.1\ExtremeRoles.dll" target="lib\netstandard2.1\ExtremeRoles.dll" />
+  </files>
+</package>

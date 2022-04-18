@@ -1,0 +1,10 @@
+C:\Users\li\source\repos\ExtremeRoles\ExtremeRoles\bin\Debug\netstandard2.1\ExtremeRoles.deps.json
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\bin\Debug\netstandard2.1\ExtremeRoles.dll
+C:\Users\li\source\repos\ExtremeRoles\ExtremeRoles\bin\Debug\netstandard2.1\ref\ExtremeRoles.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.AssemblyInfoInputs.cache
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.AssemblyInfo.cs
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.csproj.CoreCompileInputs.cache
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ref\ExtremeRoles.dll
+C:\Users\li\Source\Repos\ExtremeRoles\ExtremeRoles\obj\Debug\netstandard2.1\ExtremeRoles.csproj.AssemblyReference.cache

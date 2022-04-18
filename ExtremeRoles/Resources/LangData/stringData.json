@@ -1,0 +1,2303 @@
+{
+    "ERSettings": {
+        "0": "Extreme Roles Settings",
+        "13": "Extreme Roles设置"
+    },
+    "preset1": {
+        "0": "Preset 1",
+        "13": "预设 1"
+    },
+    "preset2": {
+        "0": "Preset 2",
+        "13": "预设 2"
+    },
+    "preset3": {
+        "0": "Preset 3",
+        "13": "预设 3"
+    },
+    "preset4": {
+        "0": "Preset 4",
+        "13": "预设 4"
+    },
+    "preset5": {
+        "0": "Preset 5",
+        "13": "预设 5"
+    },
+    "preset6": {
+        "0": "Preset 6",
+        "13": "预设 6"
+    },
+    "preset7": {
+        "0": "Preset 7",
+        "13": "预设 7"
+    },
+    "preset8": {
+        "0": "Preset 8",
+        "13": "预设 8"
+    },
+    "preset9": {
+        "0": "Preset 9",
+        "13": "预设 9"
+    },
+    "preset10": {
+        "0": "Preset 10",
+        "13": "预设 10"
+    },
+    "PresetSelection": {
+        "0": "Preset",
+        "13": "预设"
+    },
+    "UseStrongRandomGen": {
+        "13": "使用强随机生成模式"
+    },
+    "MinCremateRoles": {
+        "0": "Minimum Crewmate Roles",
+        "13": "最小船员个数"
+    },
+    "MaxCremateRoles": {
+        "0": "Maximum Crewmate Roles",
+        "13": "最大船员个数"
+    },
+    "MinNeutralRoles": {
+        "0": "Minimum Neutral Roles",
+        "13": "最小中立个数"
+    },
+    "MaxNeutralRoles": {
+        "0": "Maximum Neutral Roles",
+        "13": "最大中立个数"
+    },
+    "MinImpostorRoles": {
+        "0": "Minimum Impostor Roles",
+        "13": "最小伪装者数"
+    },
+    "MaxImpostorRoles": {
+        "0": "Maximum Impostor Roles",
+        "13": "最大伪装者数"
+    },
+    "NumMeating": {
+        "0": "Total Meetings",
+        "13": "总会议次数"
+    },
+    "DesableVent": {
+        "13": "禁用管道"
+    },
+    "DisableSkipInEmergencyMeeting": {
+        "0": "Block Skipping in Meetings",
+        "13": "会议禁用跳过"
+    },
+    "NoVoteToSelf": {
+        "0": "No Vote Is Self Vote",
+        "13": "不投票会自票"
+    },
+    "HidePlayerName": {
+        "0": "Hide Player Names",
+        "13": "隐藏玩家名字"
+    },
+    "ParallelMedBayScans": {
+        "0": "Allow Parallel MedBay Scans",
+        "13": "允许多人同时扫描"
+    },
+    "RandomMap": {
+        "0": "Play On A Random Map",
+        "13": "游玩随机地图"
+    },
+    "EngineerUseImpostorVent": {
+        "13": "工程师使用伪装者管道"
+    },
+    "CanKillVentInPlayer": {
+        "13": "管道内玩家可被击杀"
+    },
+    "IsSameNeutralSameWin": {
+        "13": "中立阵营可以一起胜利"
+    },
+    "DisableNeutralSpecialForceEnd": {
+        "13": "中立阵营不可以单独胜利"
+    },
+    "moreOptionText": {
+        "13": "更多MOD设置"
+    },
+    "modOptionText": {
+        "13": "更多MOD设置"
+    },
+    "streamerModeButton": {
+        "13": "直播模式"
+    },
+    "ghostsSeeTasksButton": {
+        "0": "Ghosts See Remaining Tasks",
+        "13": "灵魂可见任务进度"
+    },
+    "ghostsSeeRolesButton": {
+        "0": "Ghosts See Roles",
+        "13": "灵魂可见每人职业"
+    },
+    "ghostsSeeVotesButton": {
+        "0": "Ghosts See Votes",
+        "13": "灵魂可见投票结果"
+    },
+    "showRoleSummaryButton": {
+        "0": "Role Summary",
+        "13": "显示职业简介"
+    },
+    "hideNamePlateButton": {
+        "0": "Hide Nameplate",
+        "13": "隐藏名牌"
+    },
+    "custom": {
+        "13": "自定义"
+    },
+    "csvImport": {
+        "13": "引入预设CSV"
+    },
+    "importPleaseWait": {
+        "13": "引入中请稍等"
+    },
+    "importSuccess": {
+        "13": "引入成功"
+    },
+    "importError": {
+        "13": "引入失败"
+    },
+    "csvExport": {
+        "13": "导出预设CSV"
+    },
+    "exportPleaseWait": {
+        "13": "导出中请稍等"
+    },
+    "exportSuccess": {
+        "13": "导出成功"
+    },
+    "exportError": {
+        "13": "导出失败"
+    },
+    "version": {
+        "0": "Version:",
+        "13": "版本"
+    },
+    "developer": {
+        "0": "Developed by:",
+        "13": "模组原作者为"
+    },
+    "debugThunk": {
+        "13": "调试模式"
+    },
+    "win": {
+        "13": "胜利"
+    },
+    "andFirst": {
+        "13": "和"
+    },
+    "and": {
+        "13": "和"
+    },
+    "introAnd": {
+        "13": "和"
+    },
+    "optionOn": {
+        "0": "<color=#33ffcc>On</color>",
+        "13": "<color=#33ffcc>开启</color>"
+    },
+    "optionOff": {
+        "0": "<color=#ff3366>Off</color>",
+        "13": "<color=#ff3366>关闭</color>"
+    },
+    "short": {
+        "0": "Short",
+        "13": "短"
+    },
+    "middle": {
+        "0": "Middle",
+        "13": "中"
+    },
+    "long": {
+        "0": "Long",
+        "13": "长"
+    },
+    "crewmateRoles": {
+        "0": "Crewmate Roles",
+        "13": "船员职业"
+    },
+    "neutralRoles": {
+        "0": "Neutral Roles",
+        "13": "中立职业"
+    },
+    "impostorRoles": {
+        "0": "Impostor Roles",
+        "13": "伪装者职业"
+    },
+    "pressTabForMore": {
+        "0": "Press tab for more...",
+        "13": "按下Tab以显示更多..."
+    },
+    "meetingStatus": {
+        "0": "CREWMEMBER {0} HAS\n\n\nEMERGENCY MEETINGS LEFT",
+        "13": "玩家 {0} 还有\n\n\n次紧急会议剩余"
+    },
+    "meetingCount": {
+        "0": "{0} and the ship has {1}",
+        "13": "{0} 船上还有 {1}"
+    },
+    "buttonBlocked": {
+        "0": "BLOCKED",
+        "13": "被阻挡"
+    },
+    "Second": {
+        "0": "{0}s",
+        "13": "{0}秒"
+    },
+    "Minute": {
+        "0": "{0}m",
+        "13": "{0}分钟"
+    },
+    "Shot": {
+        "0": "{0}",
+        "13": "{0}回"
+    },
+    "Multiplier": {
+        "0": "{0}x",
+        "13": "{0}倍"
+    },
+    "Percentage": {
+        "0": "{0}\uff05",
+        "13": "{0}\uff05"
+    },
+    "buttonCountText": {
+        "13": "剩余"
+    },
+    "summaryText": {
+        "13": "最终结果:"
+    },
+    "summaryInfo": {
+        "13": "玩家姓名<pos=16.5%>任务<pos=25%>最终状态<pos=38%>职业"
+    },
+    "Alive": {
+        "13": "存活"
+    },
+    "Exiled": {
+        "13": "驱逐"
+    },
+    "Dead": {
+        "13": "死亡"
+    },
+    "Killed": {
+        "13": "被杀"
+    },
+    "Suicide": {
+        "13": "自杀"
+    },
+    "Disconnected": {
+        "13": "掉线"
+    },
+    "MissShot": {
+        "13": "未命中"
+    },
+    "Retaliate": {
+        "13": "报复"
+    },
+    "Assassinate": {
+        "13": "暗杀"
+    },
+    "DeadAssassinate": {
+        "13": "被暗杀"
+    },
+    "Surrender": {
+        "13": "投降"
+    },
+    "Departure": {
+        "13": "离开"
+    },
+    "Martyrdom": {
+        "13": "殉道"
+    },
+    "Explosion": {
+        "13": "爆炸"
+    },
+    "customServerIp": {
+        "13": "自定义IP"
+    },
+    "customServerPort": {
+        "13": "自定义端口"
+    },
+    "neutral": {
+        "13": "中立"
+    },
+    "neutralIntro": {
+        "13": "为了自己的胜利击杀所有人"
+    },
+    "neutralShotCall": {
+        "13": "自报"
+    },
+    "impostorShotCall": {
+        "13": "凶手"
+    },
+    "Impostor": {
+        "13": "伪装者"
+    },
+    "Shapeshifter": {
+        "13": "变形者"
+    },
+    "Crewmate": {
+        "13": "船员"
+    },
+    "Engineer": {
+        "13": "工程师"
+    },
+    "Scientist": {
+        "13": "科学家"
+    },
+    "impostorIntroText": {
+        "13": "破坏并击杀所有人"
+    },
+    "crewIntroText": {
+        "13": "做完你的任务"
+    },
+    "crewImportantText": {
+        "13": "一起做完任务"
+    },
+    "gameOption": {
+        "13": "当前游戏设置"
+    },
+    "yourRole": {
+        "13": "你的职业是"
+    },
+    "roleOption": {
+        "13": "职业设置"
+    },
+    "playerName": {
+        "13": "玩家姓名"
+    },
+    "roleName": {
+        "13": "职业"
+    },
+    "roleDesc": {
+        "13": "职业详情"
+    },
+    "changeRoleMore": {
+        "13": "用PgUp和PgDn切换职业"
+    },
+    "gameReplace": {
+        "13": "\u203b在游戏开始或过程中显示"
+    },
+    "updateButton": {
+        "13": "检查更新"
+    },
+    "chekUpdateWait": {
+        "13": "检查更新中..."
+    },
+    "updateNow": {
+        "13": "现在更新"
+    },
+    "updateManually": {
+        "13": "更新失败\n请手动更新"
+    },
+    "updateRestart": {
+        "13": "更新成功\n请重启游戏"
+    },
+    "latestNow": {
+        "13": "当前MOD是最新版本"
+    },
+    "youDonotUse": {
+        "13": "请求失败"
+    },
+    "errorCannotGameStart": {
+        "13": "由于以下原因无法启动游戏"
+    },
+    "errorNotInstalled": {
+        "13": "安装Extreme Roles失败"
+    },
+    "errorOldInstalled": {
+        "13": "安装的Extreme Roles版本过老"
+    },
+    "errorNewInstalled": {
+        "13": "安装的Extreme Roles版本过新"
+    },
+    "errorDiffHostVersion": {
+        "13": "当前Extreme Roles与主持人版本不同\n你将在{0}秒后被踢出"
+    },
+    "abilityRemain": {
+        "13": "技能激活还剩{0}秒"
+    },
+    "abilityOnText": {
+        "13": "技能结束还剩{0}秒"
+    },
+    "right": {
+        "13": "右"
+    },
+    "down": {
+        "13": "下"
+    },
+    "left": {
+        "13": "左"
+    },
+    "up": {
+        "13": "上"
+    },
+    "CrewmateFullDescription": {
+        "13": "完成你的任务并投出伪装者"
+    },
+    "EngineerFullDescription": {
+        "13": "可以钻管道的船员"
+    },
+    "ScientistFullDescription": {
+        "13": "可以在任何地方看心电图\n心电图电量有限\n电量随着时间或任务恢复"
+    },
+    "SpecialCrew": {
+        "13": "特殊船员"
+    },
+    "SpecialCrewSpawnRate": {
+        "13": "特殊船员生成概率"
+    },
+    "SpecialCrewRoleNum": {
+        "13": "特殊船员最大个数"
+    },
+    "SpecialCrewHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "SpecialCrewVison": {
+        "13": "特殊船员视野"
+    },
+    "SpecialCrewApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SpecialCrewIntroDescription": {
+        "13": "与普通船员略有不同"
+    },
+    "SpecialCrewShortDescription": {
+        "13": "略有不同"
+    },
+    "SpecialCrewFullDescription": {
+        "13": "Extreme Roles中特殊的船员\n请检查以下设置"
+    },
+    "Sheriff": {
+        "13": "警长"
+    },
+    "SheriffSpawnRate": {
+        "13": "警长生成概率"
+    },
+    "SheriffRoleNum": {
+        "13": "警长最大个数"
+    },
+    "SheriffHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "SheriffVison": {
+        "13": "警长视野"
+    },
+    "SheriffApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SheriffHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "SheriffKillCoolDown": {
+        "13": "警长击杀冷却"
+    },
+    "SheriffHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "SheriffKillRange": {
+        "13": "警长击杀范围"
+    },
+    "SheriffShootNum": {
+        "13": "警长可击杀次数"
+    },
+    "SheriffCanShootNeutral": {
+        "13": "警长可击杀中立"
+    },
+    "SheriffCanShootAssassin": {
+        "13": "警长可击杀刺客"
+    },
+    "SheriffIntroDescription": {
+        "13": "给无可救药的伪装者来一个正义之锤"
+    },
+    "SheriffShortDescription": {
+        "13": "给伪装者毙了"
+    },
+    "SheriffFullDescription": {
+        "13": "可以击杀的船员，但是击杀次数有上限\n如果尝试击杀船员，会把自己弹死"
+    },
+    "Maintainer": {
+        "13": "维护者"
+    },
+    "MaintainerSpawnRate": {
+        "13": "维护者生成概率"
+    },
+    "MaintainerRoleNum": {
+        "13": "维护者最大个数"
+    },
+    "MaintainerHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "MaintainerVison": {
+        "13": "维护者视野"
+    },
+    "MaintainerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "MaintainerAbilityCoolTime": {
+        "13": "修复冷却"
+    },
+    "MaintainerAbilityCount": {
+        "13": "总修复次数"
+    },
+    "MaintainerIntroDescription": {
+        "13": "维护好飞船上的一切"
+    },
+    "MaintainerShortDescription": {
+        "13": "快速维修"
+    },
+    "MaintainerFullDescription": {
+        "13": "可以进行快速维修的船员\n维修在紧急任务时可以使用\n使用维修后，紧急任务将会立即完成\n而且地图上的所有门会被打开"
+    },
+    "maintenance": {
+        "13": "紧急修理"
+    },
+    "Neet": {
+        "13": "幸存者"
+    },
+    "NeetSpawnRate": {
+        "13": "幸存者生成概率"
+    },
+    "NeetRoleNum": {
+        "13": "幸存者最大个数"
+    },
+    "NeetHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "NeetVison": {
+        "13": "幸存者视野"
+    },
+    "NeetApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "NeetCanCallMeeting": {
+        "13": "幸存者可以召开会议"
+    },
+    "NeetCanRepairSabotage": {
+        "13": "幸存者可以修复破坏"
+    },
+    "NeetHasTask": {
+        "13": "幸存者有任务"
+    },
+    "NeetIsNeutral": {
+        "13": "改幸存者为中立阵营"
+    },
+    "NeetIntroDescription": {
+        "13": "把一切交给别人，享受你的旅行"
+    },
+    "NeetShortDescription": {
+        "13": "活到最后"
+    },
+    "NeetFullDescription": {
+        "13": "不能做任何事情的船员\n也无需做事情，毕竟目标是活到最后"
+    },
+    "NeetNeutralFullDescription": {
+        "13": "不能做任何事情的中立阵营\n目标是活到最后"
+    },
+    "Watchdog": {
+        "13": "保安"
+    },
+    "WatchdogSpawnRate": {
+        "13": "保安生成概率"
+    },
+    "WatchdogRoleNum": {
+        "13": "保安最大个数"
+    },
+    "WatchdogHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "WatchdogVison": {
+        "13": "保安视野"
+    },
+    "WatchdogApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "WatchdogAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "WatchdogAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "WatchdogIntroDescription": {
+        "13": "使用摄像头和管理日志监视船员"
+    },
+    "WatchdogShortDescription": {
+        "13": "监视船员，揪出可疑的人"
+    },
+    "WatchdogFullDescription": {
+        "13": "可以在随处查看摄像头和门日志\n门日志仅在Mira HQ生效\n使用有电池上限，完成任务可以充电"
+    },
+    "securityCamera": {
+        "13": "摄像头"
+    },
+    "doorLog": {
+        "13": "门日志"
+    },
+    "Supervisor": {
+        "13": "主管"
+    },
+    "SupervisorSpawnRate": {
+        "13": "主管生成概率"
+    },
+    "SupervisorRoleNum": {
+        "13": "主管最大个数"
+    },
+    "SupervisorHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "SupervisorVison": {
+        "13": "主管视野"
+    },
+    "SupervisorApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SupervisorAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "SupervisorAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "SupervisorIntroDescription": {
+        "13": "作为主管，收集船员的位置信息"
+    },
+    "SupervisorShortDescription": {
+        "13": "收集船员位置信息"
+    },
+    "SupervisorFullDescription": {
+        "13": "可以随时使用“管理室地图”的船员\n会耗电，每次使用时间限制都会变短\n可以做任务来充电"
+    },
+    "admin": {
+        "13": "管理室"
+    },
+    "BodyGuard": {
+        "13": "保镖"
+    },
+    "BodyGuardSpawnRate": {
+        "13": "保镖生成概率"
+    },
+    "BodyGuardRoleNum": {
+        "13": "保镖最大个数"
+    },
+    "BodyGuardHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "BodyGuardVison": {
+        "13": "保镖视野"
+    },
+    "BodyGuardApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "BodyGuardShieldRange": {
+        "13": "上护盾范围"
+    },
+    "BodyGuardAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "BodyGuardAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "BodyGuardIntroDescription": {
+        "13": "给船员上盾，保护他们"
+    },
+    "BodyGuardShortDescription": {
+        "13": "保护船员"
+    },
+    "BodyGuardFullDescription": {
+        "13": "可以给其他人上盾的船员\n如果试图通过“击杀按钮”杀死有盾牌的人，则目标不会被杀死\n盾牌在每次会议时重置\n盾牌被尝试击杀也会重置。"
+    },
+    "shield": {
+        "13": "盾牌"
+    },
+    "Whisper": {
+        "13": "聆听者"
+    },
+    "WhisperSpawnRate": {
+        "13": "聆听者生成概率"
+    },
+    "WhisperRoleNum": {
+        "13": "聆听者最大个数"
+    },
+    "WhisperHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "WhisperVison": {
+        "13": "聆听者视野"
+    },
+    "WhisperApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "WhisperAbilityOffTime": {
+        "13": "技能触发时间"
+    },
+    "WhisperAbilityOnTime": {
+        "13": "技能持续时间"
+    },
+    "WhisperTellTextTime": {
+        "13": "文本显示时间"
+    },
+    "WhisperMaxTellText": {
+        "13": "文本最大显示次数"
+    },
+    "WhisperIntroDescription": {
+        "13": "利用好你的耳朵，洞听一切发生的事情"
+    },
+    "WhisperShortDescription": {
+        "13": "聆听发生的事情"
+    },
+    "WhisperFullDescription": {
+        "13": "可以使用聆听技能的船员\n聆听技能在一定时间后被强制激活\n激活时不可以移动，否则将会取消技能\n激活技能时，会检测击杀并获得击杀方向"
+    },
+    "killedText": {
+        "13": "糟糕，看起来有人被{0}({1})杀死"
+    },
+    "TimeMaster": {
+        "13": "时间管理大师"
+    },
+    "TimeMasterSpawnRate": {
+        "13": "时间管理大师生成概率"
+    },
+    "TimeMasterRoleNum": {
+        "13": "时间管理大师最大个数"
+    },
+    "TimeMasterHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "TimeMasterVison": {
+        "13": "时间管理大师视野"
+    },
+    "TimeMasterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "TimeMasterAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "TimeMasterAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "TimeMasterRewindTime": {
+        "13": "倒带时间"
+    },
+    "TimeMasterIntroDescription": {
+        "13": "使用时间之盾统治时间"
+    },
+    "TimeMasterShortDescription": {
+        "13": "统治时间"
+    },
+    "TimeMasterFullDescription": {
+        "13": "可以使用“时间之盾”能力的船员\n“时间倒带”发生在技能“时间之盾”激活时\n时间管理大师本人在时间倒带期间不受影响\n另外，用击杀键击杀“时间大师”自己\n“倒带时间”仅由玩家的移动倒带\n倒带时间由“时间护盾倒带的时间”决定。"
+    },
+    "timeShield": {
+        "13": "时间之盾"
+    },
+    "Agency": {
+        "13": "代理"
+    },
+    "AgencySpawnRate": {
+        "13": "代理生成概率"
+    },
+    "AgencyRoleNum": {
+        "13": "代理最大个数"
+    },
+    "AgencyHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "AgencyVison": {
+        "13": "代理视野"
+    },
+    "AgencyApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "AgencyMaxTaskNum": {
+        "13": "代理最大任务数"
+    },
+    "AgencyTakeTaskRange": {
+        "13": "代理范围"
+    },
+    "AgencyAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "AgencyAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "AgencyIntroDescription": {
+        "13": "帮助别人完成任务"
+    },
+    "AgencyShortDescription": {
+        "13": "帮助别人完成任务"
+    },
+    "AgencyFullDescription": {
+        "13": "可以接替另一个船员的任务\n获取到的任务类型将对应随机的任务\n如果目标人员是船员，则可以获取的任务数量由设置决定\n如果目标人是没有任务的人（有假任务），获取的数量会根据整个任务的进度来确定。"
+    },
+    "takeTask": {
+        "13": "接替"
+    },
+    "Bakary": {
+        "13": "面包师"
+    },
+    "BakarySpawnRate": {
+        "13": "面包师生成概率"
+    },
+    "BakaryRoleNum": {
+        "13": "面包是最大个数"
+    },
+    "BakaryHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "BakaryVison": {
+        "13": "面包师视野"
+    },
+    "BakaryApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "BakaryChangeCooking": {
+        "13": "会议时改变烘培状态"
+    },
+    "BakaryGoodBakeTime": {
+        "13": "烘培美味面包需要时间"
+    },
+    "BakaryBadBakeTime": {
+        "13": "烘培烧焦面包需要时间"
+    },
+    "BakaryIntroDescription": {
+        "13": "为船员提供新鲜出炉的面包"
+    },
+    "BakaryShortDescription": {
+        "13": "提供面包"
+    },
+    "BakaryFullDescription": {
+        "13": "船员报告每次会议可以开始烤面包\n面包有没熟、美味和烧焦三种状态"
+    },
+    "rawBread": {
+        "13": "面包师的面包还没熟"
+    },
+    "goodBread": {
+        "13": "面包师烤出了美味的面包"
+    },
+    "badBread": {
+        "13": "面包师把面包烧焦啦"
+    },
+    "CurseMaker": {
+        "13": "术士"
+    },
+    "CurseMakerSpawnRate": {
+        "13": "术士生成概率"
+    },
+    "CurseMakerRoleNum": {
+        "13": "术士最大个数"
+    },
+    "CurseMakerHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "CurseMakerVison": {
+        "13": "术士视野"
+    },
+    "CurseMakerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "CurseMakerCursingRange": {
+        "13": "术士范围"
+    },
+    "CurseMakerAdditionalKillCool": {
+        "13": "额外击杀冷却"
+    },
+    "CurseMakerAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "CurseMakerAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "CurseMakerAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "CurseMakerIsDeadBodySearch": {
+        "13": "显示指向尸体的箭头"
+    },
+    "CurseMakerIsMultiDeadBodySearch": {
+        "13": "显示多次指向尸体的箭头"
+    },
+    "CurseMakerSearchDeadBodyTime": {
+        "13": "显示箭头间隔时间"
+    },
+    "CurseMakerIntroDescription": {
+        "13": "用尸体的怨恨诅咒凶手"
+    },
+    "CurseMakerShortDescription": {
+        "13": "诅咒凶手"
+    },
+    "CurseMakerFullDescription": {
+        "13": "发现尸体时可以使用技能诅咒\n诅咒需要一定的时间\n当诅咒完成时，尸体会消失\n杀害此目标的凶手的冷却会增加\n并且不会重置到正常冷却，持续一整场游戏"
+    },
+    "curse": {
+        "13": "诅咒"
+    },
+    "cursing": {
+        "13": "诅咒中"
+    },
+    "Fencer": {
+        "13": "服务员"
+    },
+    "FencerSpawnRate": {
+        "13": "服务员生成概率"
+    },
+    "FencerRoleNum": {
+        "13": "服务员最大个数"
+    },
+    "FencerHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "FencerVison": {
+        "13": "服务员视野"
+    },
+    "FencerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "FencerAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "FencerAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "FencerAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "FencerResetTime": {
+        "13": "计数重置时间"
+    },
+    "FencerIntroDescription": {
+        "13": "报复那些在船上杀人的凶手"
+    },
+    "FencerShortDescription": {
+        "13": "报复凶手"
+    },
+    "FencerFullDescription": {
+        "13": "可以反击凶手的船员\n如果在计数器激活时某人使用击杀按钮\n击杀将无效，并且立即进入冷却\n一段时间中击杀变得不可用\n当激活计数器时，船员不会被击杀按钮击杀"
+    },
+    "counter": {
+        "13": "计数器"
+    },
+    "ImpostorFullDescription": {
+        "13": "破坏船上的设施\n击杀其他船员\n伪装在其他人之中"
+    },
+    "ShapeshifterFullDescription": {
+        "13": "变成其他人的样子\n完成秘密击杀\n帮助队友破坏\n栽赃其他船员"
+    },
+    "SpecialImpostor": {
+        "13": "特殊伪装者"
+    },
+    "SpecialImpostorSpawnRate": {
+        "13": "特殊伪装者生成概率"
+    },
+    "SpecialImpostorRoleNum": {
+        "13": "特殊伪装者最大个数"
+    },
+    "SpecialImpostorHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "SpecialImpostorVison": {
+        "13": "特殊伪装者视野"
+    },
+    "SpecialImpostorApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SpecialImpostorHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "SpecialImpostorKillCoolDown": {
+        "13": "特殊伪装者击杀冷却"
+    },
+    "SpecialImpostorHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "SpecialImpostorKillRange": {
+        "13": "特殊伪装者击杀范围"
+    },
+    "SpecialImpostorIntroDescription": {
+        "13": "与普通伪装者略有不同"
+    },
+    "SpecialImpostorShortDescription": {
+        "13": "略有不同"
+    },
+    "SpecialImpostorFullDescription": {
+        "13": "Extreme Roles中特殊的伪装者\n请检查以下设置"
+    },
+    "Evolver": {
+        "13": "秃鹫"
+    },
+    "EvolverSpawnRate": {
+        "13": "秃鹫生成概率"
+    },
+    "EvolverRoleNum": {
+        "13": "秃鹫最大个数"
+    },
+    "EvolverHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "EvolverVison": {
+        "13": "秃鹫视野"
+    },
+    "EvolverApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "EvolverHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "EvolverKillCoolDown": {
+        "13": "秃鹫击杀冷却"
+    },
+    "EvolverHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "EvolverKillRange": {
+        "13": "秃鹫击杀范围"
+    },
+    "EvolverIsEvolvedAnimation": {
+        "13": "捕食时播放动画"
+    },
+    "EvolverIsEatingEndCleanBody": {
+        "13": "清除被捕食的尸体"
+    },
+    "EvolverEatingRange": {
+        "13": "秃鹫捕食范围"
+    },
+    "EvolverKillCoolReduceRate": {
+        "13": "秃鹫捕食冷却减少率"
+    },
+    "EvolverKillCoolResuceRateMulti": {
+        "13": "秃鹫每次捕食冷却减少增加率"
+    },
+    "EvolverAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "EvolverAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "EvolverAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "EvolverIntroDescription": {
+        "13": "减少冷却，将船员逼到绝境"
+    },
+    "EvolverShortDescription": {
+        "13": "捕食尸体减少冷却"
+    },
+    "EvolverFullDescription": {
+        "13": "可以捕食尸体的伪装者\n捕食需要时间\n捕食一次减少一次冷却\n每次减少的冷却增加"
+    },
+    "evolve": {
+        "13": "捕食"
+    },
+    "eating": {
+        "13": "捕食中"
+    },
+    "Carrier": {
+        "13": "搬运工"
+    },
+    "CarrierSpawnRate": {
+        "13": "搬运工生成概率"
+    },
+    "CarrierRoleNum": {
+        "13": "搬运工最大个数"
+    },
+    "CarrierHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "CarrierVison": {
+        "13": "搬运工视野"
+    },
+    "CarrierApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "CarrierHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "CarrierKillCoolDown": {
+        "13": "搬运工击杀冷却"
+    },
+    "CarrierHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "CarrierKillRange": {
+        "13": "搬运工击杀范围"
+    },
+    "CarrierAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "CarrierAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "CarrierCarryDistance": {
+        "13": "一次最多搬运尸体个数"
+    },
+    "CarrierCanReportOnCarry": {
+        "13": "搬运时可报告尸体"
+    },
+    "CarrierIntroDescription": {
+        "13": "把尸体搬运到难以发现的位置"
+    },
+    "CarrierShortDescription": {
+        "13": "搬运尸体"
+    },
+    "CarrierFullDescription": {
+        "13": "可以搬运尸体的伪装者\n把尸体放到难以发现的位置"
+    },
+    "carry": {
+        "13": "搬运"
+    },
+    "PsychoKiller": {
+        "13": "心理杀手"
+    },
+    "PsychoKillerSpawnRate": {
+        "13": "心理杀手生成概率"
+    },
+    "PsychoKillerRoleNum": {
+        "13": "心理杀手最大个数"
+    },
+    "PsychoKillerHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "PsychoKillerVison": {
+        "13": "心理杀手视野"
+    },
+    "PsychoKillerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "PsychoKillerHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "PsychoKillerKillCoolDown": {
+        "13": "心理杀手击杀冷却"
+    },
+    "PsychoKillerHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "PsychoKillerKillRange": {
+        "13": "心理杀手击杀范围"
+    },
+    "PsychoKillerKillCoolReduceRate": {
+        "13": "击杀冷却减少率"
+    },
+    "PsychoKillerCombMax": {
+        "13": "击杀冷却减少率上限"
+    },
+    "PsychoKillerCombResetWhenMeeting": {
+        "13": "会议时重置减少冷却"
+    },
+    "PsychoKillerIntroDescription": {
+        "13": "击杀船员获得更短的冷却"
+    },
+    "PsychoKillerShortDescription": {
+        "13": "获得更短冷却"
+    },
+    "PsychoKillerFullDescription": {
+        "13": "连续击杀会使冷却变短\n每次击杀都会触发连击\n冷却会相应更短\n根据设置，开会时可能重置连击\n当前连击数：{0}"
+    },
+    "BountyHunter": {
+        "13": "赏金猎人"
+    },
+    "BountyHunterSpawnRate": {
+        "13": "赏金猎人生成概率"
+    },
+    "BountyHunterRoleNum": {
+        "13": "赏金猎人最大个数"
+    },
+    "BountyHunterHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "BountyHunterVison": {
+        "13": "赏金猎人视野"
+    },
+    "BountyHunterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "BountyHunterHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "BountyHunterKillCoolDown": {
+        "13": "赏金猎人击杀冷却"
+    },
+    "BountyHunterHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "BountyHunterKillRange": {
+        "13": "赏金猎人击杀范围"
+    },
+    "BountyHunterTargetUpdateTime": {
+        "13": "目标重置时间"
+    },
+    "BountyHunterTargetKillCoolTime": {
+        "13": "击杀正确时冷却"
+    },
+    "BountyHunterNoneTargetKillCoolTime": {
+        "13": "击杀错误时冷却"
+    },
+    "BountyHunterIsShowArrow": {
+        "13": "显示指向目标的箭头"
+    },
+    "BountyHunterArrowUpdateCycle": {
+        "13": "箭头更新时间"
+    },
+    "BountyHunterIntroDescription": {
+        "13": "今晚的猎物会发出怎样的尖叫？"
+    },
+    "BountyHunterShortDescription": {
+        "13": "干掉你的目标"
+    },
+    "BountyHunterFullDescription": {
+        "13": "随机获得猎物\n决定击杀冷却\n击杀正确冷却：{0}\n击杀错误冷却：{1}\n当前目标：{2}"
+    },
+    "Painter": {
+        "13": "画家"
+    },
+    "PainterSpawnRate": {
+        "13": "画家生成概率"
+    },
+    "PainterRoleNum": {
+        "13": "画家最大个数"
+    },
+    "PainterHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "PainterVison": {
+        "13": "画家视野"
+    },
+    "PainterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "PainterHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "PainterKillCoolDown": {
+        "13": "画家击杀冷却"
+    },
+    "PainterHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "PainterKillRange": {
+        "13": "画家击杀范围"
+    },
+    "PainterAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "PainterCanPaintDistance": {
+        "13": "画画范围"
+    },
+    "PainterPaintColorIsRandom": {
+        "13": "画画随机颜色"
+    },
+    "PainterIntroDescription": {
+        "13": "让我想想怎么完成尸体（作品）"
+    },
+    "PainterShortDescription": {
+        "13": "把尸体变成艺术"
+    },
+    "PainterFullDescription": {
+        "13": "可以更改尸体颜色的伪装者\n默认是透明颜色"
+    },
+    "paint": {
+        "13": "创作"
+    },
+    "Faker": {
+        "13": "魔术师"
+    },
+    "FakerSpawnRate": {
+        "13": "魔术师生成概率"
+    },
+    "FakerRoleNum": {
+        "13": "魔术师最大个数"
+    },
+    "FakerHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "FakerVison": {
+        "13": "魔术师视野"
+    },
+    "FakerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "FakerHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "FakerKillCoolDown": {
+        "13": "魔术师击杀冷却"
+    },
+    "FakerHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "FakerKillRange": {
+        "13": "魔术师击杀范围"
+    },
+    "FakerAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "FakerIntroDescription": {
+        "13": "放置假的尸体，让整条船都是尸体"
+    },
+    "FakerShortDescription": {
+        "13": "放置假尸体迷惑船员"
+    },
+    "FakerFullDescription": {
+        "13": "可以伪造尸体的伪装者\n激活技能以随机放置活着的玩家（不分阵营）的尸体\n伪造的尸体不能被报告\n伪造的尸体会播放被杀死时倒塌的动画"
+    },
+    "dummy": {
+        "13": "伪造"
+    },
+    "OverLoader": {
+        "13": "过载器"
+    },
+    "OverLoaderSpawnRate": {
+        "13": "过载器生成概率"
+    },
+    "OverLoaderRoleNum": {
+        "13": "过载器最大个数"
+    },
+    "OverLoaderHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "OverLoaderVison": {
+        "13": "过载器视野"
+    },
+    "OverLoaderApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "OverLoaderHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "OverLoaderKillCoolDown": {
+        "13": "过载器击杀冷却"
+    },
+    "OverLoaderHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "OverLoaderKillRange": {
+        "13": "过载器击杀范围"
+    },
+    "OverLoaderAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "OverLoaderAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "OverLoaderKillCoolReduceRate": {
+        "13": "击杀冷却减少率"
+    },
+    "OverLoaderMoveSpeed": {
+        "13": "过载移动速度"
+    },
+    "OverLoaderIntroDescription": {
+        "13": "使用过载，超过一切"
+    },
+    "OverLoaderShortDescription": {
+        "13": "过载和下载"
+    },
+    "OverLoaderFullDescription": {
+        "13": "可使用过载技能的伪装者\n使用过载时，职业名称变为公开\n使用过载后，过载按钮变为下载\n使用下载，职业再次变为私密\n当职业公开时，玩家的姓名将在任何玩家的屏幕中显示，移动速度将提高\n击杀范围变长长，击杀冷却大幅降低\n开会时强制取消过载并且职位变为私密"
+    },
+    "overLoad": {
+        "13": "过载"
+    },
+    "downLoad": {
+        "13": "下载"
+    },
+    "Cracker": {
+        "13": "破坏者"
+    },
+    "CrackerSpawnRate": {
+        "13": "破坏者生成概率"
+    },
+    "CrackerRoleNum": {
+        "13": "破坏者最大个数"
+    },
+    "CrackerHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "CrackerVison": {
+        "13": "破坏者视野"
+    },
+    "CrackerApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "CrackerHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "CrackerKillCoolDown": {
+        "13": "破坏者击杀冷却"
+    },
+    "CrackerHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "CrackerKillRange": {
+        "13": "破坏者击杀范围"
+    },
+    "CrackerAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "CrackerAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "CrackerCanCrackDistance": {
+        "13": "技能范围"
+    },
+    "CrackerRemoveDeadBody": {
+        "13": "清除尸体留下痕迹"
+    },
+    "CrackerIntroDescription": {
+        "13": "毁灭吧！！都不准报告！！！"
+    },
+    "CrackerShortDescription": {
+        "13": "清除尸体，让他们无法报告"
+    },
+    "CrackerFullDescription": {
+        "13": "通过清理尸体，使别人无法报告尸体\n但会留下痕迹，并在会议时显示"
+    },
+    "crack": {
+        "13": "清除"
+    },
+    "Bomber": {
+        "13": "爆破者"
+    },
+    "BomberSpawnRate": {
+        "13": "爆破者生成概率"
+    },
+    "BomberRoleNum": {
+        "13": "爆破者最大个数"
+    },
+    "BomberHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "BomberVison": {
+        "13": "爆破者视野"
+    },
+    "BomberApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "BomberHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "BomberKillCoolDown": {
+        "13": "爆破者击杀冷却"
+    },
+    "BomberHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "BomberKillRange": {
+        "13": "爆破者击杀范围"
+    },
+    "BomberAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "BomberAbilityActiveTime": {
+        "13": "技能持续时间"
+    },
+    "BomberAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "BomberExplosionRange": {
+        "13": "爆炸范围"
+    },
+    "BomberExplosionKillChance": {
+        "13": "爆炸范围内船员死亡概率"
+    },
+    "BomberTimerMinTime": {
+        "13": "爆炸最短时间"
+    },
+    "BomberTimerMaxTime": {
+        "13": "爆炸最长时间"
+    },
+    "BomberTellExplosion": {
+        "13": "爆炸前警告"
+    },
+    "BomberIntroDescription": {
+        "13": "爆炸就是艺术"
+    },
+    "BomberShortDescription": {
+        "13": "安放炸弹给船员带来惊喜"
+    },
+    "BomberFullDescription": {
+        "13": "一个可以将船员变成炸弹的伪装者\n通过安装炸弹，在一定时间后会发生以该玩家为中心的爆炸\n爆炸范围内的船员会以一定的概率死亡\n在爆炸范围内的告密者将存活下来，但是被保镖保护的船员\n保镖将有几率死亡，而机组人员将永远存活\n如果爆破者或者目标存活，则大家会活的好好的"
+    },
+    "setBomb": {
+        "13": "安放"
+    },
+    "explosionText": {
+        "13": "我正在制作的炸弹艺术要完成了"
+    },
+    "Mery": {
+        "13": "玛丽"
+    },
+    "MerySpawnRate": {
+        "13": "玛丽生成概率"
+    },
+    "MeryRoleNum": {
+        "13": "玛丽最大个数"
+    },
+    "MeryHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "MeryVison": {
+        "13": "玛丽视野"
+    },
+    "MeryApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "MeryHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "MeryKillCoolDown": {
+        "13": "玛丽击杀冷却"
+    },
+    "MeryHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "MeryKillRange": {
+        "13": "玛丽击杀范围"
+    },
+    "MeryAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "MeryAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "MeryActiveNum": {
+        "13": "可放置的管道数"
+    },
+    "MeryActiveRange": {
+        "13": "激活管道组需要的靠近人数"
+    },
+    "MeryIntroDescription": {
+        "13": "我是玛丽，我现在在你后面"
+    },
+    "MeryShortDescription": {
+        "13": "在特殊的地方放置特殊的管道"
+    },
+    "MeryFullDescription": {
+        "13": "可以挖管道的伪装者\n管道有激活状态和停用状态（纹理也会改变）\n激活的管道可以像正常管道一样钻来钻去\n要激活管道，需要在设定的范围内让贴过来的的玩家接近设定的人数。一旦被激活，就不会停用\n除了伪装者和梅林（无论是停用还是激活后）之外的人都无法看到或使用。"
+    },
+    "setCamp": {
+        "13": "管道"
+    },
+    "SlaveDriver": {
+        "13": "司机"
+    },
+    "SlaveDriverSpawnRate": {
+        "13": "司机生成概率"
+    },
+    "SlaveDriverRoleNum": {
+        "13": "司机最大个数"
+    },
+    "SlaveDriverHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "SlaveDriverVison": {
+        "13": "司机视野"
+    },
+    "SlaveDriverApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SlaveDriverHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "SlaveDriverKillCoolDown": {
+        "13": "司机击杀冷却"
+    },
+    "SlaveDriverHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "SlaveDriverKillRange": {
+        "13": "司机击杀范围"
+    },
+    "SlaveDriverTaskProgressRange": {
+        "13": "使用奖金技能时与任务的延迟"
+    },
+    "SlaveDriverKillCoolReduceRate": {
+        "13": "使用奖金技能时击杀冷却减少率"
+    },
+    "SlaveDriverSpecialAttackTimer": {
+        "13": "使用强攻技能持续时间"
+    },
+    "SlaveDriverSpecialAttackAliveTimer": {
+        "13": "使用强攻技能活着的持续时间"
+    },
+    "SlaveDriverSpecialAttackKillCoolReduceRate": {
+        "13": "使用强攻技能时击杀冷却减少率"
+    },
+    "SlaveDriverNoneTaskPlayerAttakBonusChance": {
+        "13": "击杀没有任务的船员触发奖金技能的概率"
+    },
+    "SlaveDriverNoneTaskPlayerSpecialAttackChance": {
+        "13": "击杀有任务的船员触发强攻技能的概率"
+    },
+    "SlaveDriverAdditionalCommonTaskNum": {
+        "13": "强攻额外普通任务数"
+    },
+    "SlaveDriverAdditionalNormalTaskNum": {
+        "13": "强攻额外短任务数"
+    },
+    "SlaveDriverAdditionalLongTaskNum": {
+        "13": "强攻额外长任务数"
+    },
+    "SlaveDriverIntroDescription": {
+        "13": "找个你不相信的人替你打工"
+    },
+    "SlaveDriverShortDescription": {
+        "13": "船员跳来跳去好烦，来制止他们"
+    },
+    "SlaveDriverFullDescription": {
+        "13": "根据被击杀玩家的任务进度获得各种​​收益\n效果中有“奖金”和“强攻”\n“奖金”是从整体任务进度中记录玩家的任务\n出现时任务变化不大，此时击杀冷却减少设定值\n“强攻”在一定时间后相对于整体任务进度\n被击杀的玩家的任务进度极低\n当进度对所有活着的玩家都不利时发生。这时候击杀冷却会比“奖金”减少更多，任务会随机添加到被击杀的玩家身上。\n如果被击杀的玩家没有任务，将根据设定的概率应用“奖金”或“强攻”击杀冷却减少。"
+    },
+    "SandWorm": {
+        "13": "沙虫"
+    },
+    "SandWormSpawnRate": {
+        "13": "沙虫生成概率"
+    },
+    "SandWormRoleNum": {
+        "13": "沙虫最大个数"
+    },
+    "SandWormHasOtherVison": {
+        "13": "与伪装者拥有不一样的视野"
+    },
+    "SandWormVison": {
+        "13": "沙虫视野"
+    },
+    "SandWormApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SandWormHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "SandWormKillCoolDown": {
+        "13": "沙虫击杀冷却"
+    },
+    "SandWormHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "SandWormKillRange": {
+        "13": "沙虫击杀范围"
+    },
+    "SandWormKillCoolPenalty": {
+        "13": "非停电时击杀击杀冷却增加"
+    },
+    "SandWormAssaultKillCoolReduce": {
+        "13": "停电或攻击时击杀击杀冷却减少"
+    },
+    "SandWormAssaultRange": {
+        "13": "攻击范围"
+    },
+    "SandWormAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "SandWormIntroDescription": {
+        "13": "你相信光吗？反正我不相信"
+    },
+    "SandWormShortDescription": {
+        "13": "突击检查！"
+    },
+    "SandWormFullDescription": {
+        "13": "可以使用攻击按钮的伪装者\n攻击是使用通风口时可以使用的击杀按钮\n当激活技能时，通风口的打开和关闭动画会一直播放\n只有在停电或别人使用通风口时才会恢复\n上述通风口仅适用于地图中最初存在的通风口\n（玛丽的特殊通风口不算）\n普通用击杀键击杀会增加一定数量的击杀冷却\n击杀冷却会减少一定量\n通过在停电期间执行攻击或击杀（短于平时冷却）"
+    },
+    "assault": {
+        "13": "攻击"
+    },
+    "Alice": {
+        "13": "爱丽丝"
+    },
+    "AliceSpawnRate": {
+        "13": "爱丽丝生成概率"
+    },
+    "AliceRoleNum": {
+        "13": "爱丽丝最大个数"
+    },
+    "AliceHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "AliceVison": {
+        "13": "爱丽丝视野"
+    },
+    "AliceApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "AliceHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "AliceKillCoolDown": {
+        "13": "爱丽丝击杀冷却"
+    },
+    "AliceHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "AliceKillRange": {
+        "13": "爱丽丝击杀范围"
+    },
+    "AliceAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "AliceAbilityCount": {
+        "13": "技能最大数量"
+    },
+    "AliceRevartCommonTaskNum": {
+        "13": "破坏撤销的普通任务数"
+    },
+    "AliceRevartLongTaskNum": {
+        "13": "破坏撤销的长任务数"
+    },
+    "AliceRevartNormalTaskNum": {
+        "13": "破坏撤销的短任务数"
+    },
+    "AliceIntroDescription": {
+        "13": "自私的力量让一切都变得很糟糕"
+    },
+    "AliceShortDescription": {
+        "13": "像伪装者那样，杀死和摧毁一切吧"
+    },
+    "AliceFullDescription": {
+        "13": "第三阵营\n胜利条件1：被伪装者杀死\n胜利条件2：除自己以外的剩余船员与伪装者相同\n能力“破坏”很强大，它将玩家们完成的任务撤销"
+    },
+    "shipBroken": {
+        "13": "破坏"
+    },
+    "Jackal": {
+        "13": "豺狼"
+    },
+    "Sidekick": {
+        "13": "跟班"
+    },
+    "JackalSpawnRate": {
+        "13": "豺狼生成概率"
+    },
+    "JackalRoleNum": {
+        "13": "豺狼最大个数"
+    },
+    "JackalHasOtherVison": {
+        "13": "豺狼与船员拥有不一样的视野"
+    },
+    "JackalVison": {
+        "13": "豺狼视野"
+    },
+    "JackalApplyEnvironmentVisionEffect": {
+        "13": "豺狼熄灯不影响视野"
+    },
+    "JackalHasOtherKillCool": {
+        "13": "豺狼与伪装者拥有不一样的击杀冷却"
+    },
+    "JackalKillCoolDown": {
+        "13": "豺狼击杀冷却"
+    },
+    "JackalHasOtherKillRange": {
+        "13": "豺狼与伪装者拥有不一样的击杀范围"
+    },
+    "JackalKillRange": {
+        "13": "豺狼击杀范围"
+    },
+    "JackalAbilityCoolTime": {
+        "13": "招募冷却时间"
+    },
+    "JackalAbilityCount": {
+        "13": "招募最大数量"
+    },
+    "JackalRangeSidekickTarget": {
+        "13": "招募范围"
+    },
+    "JackalCanLoverSidekick": {
+        "13": "豺狼可以招募自己的恋人"
+    },
+    "JackalForceReplaceLover": {
+        "13": "强制拆散恋人"
+    },
+    "JackalUpgradeSidekickNum": {
+        "13": "豺狼死亡时跟班晋升次数"
+    },
+    "JackalSidekickJackalCanMakeSidekick": {
+        "13": "跟班晋升的豺狼可以招募跟班"
+    },
+    "JackalSidekickLimitNum": {
+        "13": "跟班晋升的豺狼招募跟班最大次数"
+    },
+    "JackalCanSetImpostorToSidekick": {
+        "13": "可以招募伪装者为跟班"
+    },
+    "JackalCanSeeImpostorToSidekickImpostor": {
+        "13": "被招募的伪装者队友看他仍是红名字"
+    },
+    "SidekickUseSabotage": {
+        "13": "跟班可以使用破坏"
+    },
+    "SidekickUseVent": {
+        "13": "跟班可以使用管道"
+    },
+    "SidekickCanKill": {
+        "13": "跟班可以击杀"
+    },
+    "SidekickHasOtherKillCool": {
+        "13": "跟班与伪装者拥有不一样的击杀冷却"
+    },
+    "SidekickKillCoolDown": {
+        "13": "跟班击杀冷却"
+    },
+    "SidekickHasOtherKillRange": {
+        "13": "跟班与伪装者拥有不一样的击杀范围"
+    },
+    "SidekickKillRange": {
+        "13": "跟班击杀范围"
+    },
+    "SidekickHasOtherVison": {
+        "13": "跟班与船员拥有不一样的视野"
+    },
+    "SidekickVison": {
+        "13": "跟班视野"
+    },
+    "SidekickApplyEnvironmentVisionEffect": {
+        "13": "跟班熄灯不影响视野"
+    },
+    "JackalIntroDescription": {
+        "13": "招募一个伙伴，管理这艘船"
+    },
+    "JackalShortDescription": {
+        "13": "打遍天下"
+    },
+    "JackalFullDescription": {
+        "13": "第三阵营\n胜利条件：除了自己的阵营外所有其他人被全部消灭\n可以将任何人拉入同一个阵营"
+    },
+    "curSidekick": {
+        "13": "招募"
+    },
+    "SidekickShortDescription": {
+        "13": "协助你的老大"
+    },
+    "SidekickFullDescription": {
+        "13": "第三阵营\n胜利条件：除了自己的阵营外所有其他人被全部消灭\n目前你的老大：{0}"
+    },
+    "TaskMaster": {
+        "13": "任务管理大师"
+    },
+    "TaskMasterSpawnRate": {
+        "13": "任务管理大师生成概率"
+    },
+    "TaskMasterRoleNum": {
+        "13": "任务管理大师最大个数"
+    },
+    "TaskMasterHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "TaskMasterVison": {
+        "13": "任务管理大师视野"
+    },
+    "TaskMasterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "TaskMasterAddCommonTaskNum": {
+        "13": "额外普通任务"
+    },
+    "TaskMasterAddLongTaskNum": {
+        "13": "额外长任务"
+    },
+    "TaskMasterAddNormalTaskNum": {
+        "13": "额外短任务"
+    },
+    "TaskMasterIntroDescription": {
+        "13": "完成任务并逃离飞船吧"
+    },
+    "TaskMasterShortDescription": {
+        "13": "完成任务"
+    },
+    "TaskMasterFullDescription": {
+        "13": "第三阵营\n胜利条件：活着并且完成所有任务\n任务完成时会添加一些额外的任务\n如果你死了，你就赢不了了"
+    },
+    "Missionary": {
+        "13": "牧师"
+    },
+    "MissionarySpawnRate": {
+        "13": "牧师生成概率"
+    },
+    "MissionaryRoleNum": {
+        "13": "牧师最大个数"
+    },
+    "MissionaryHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "MissionaryVison": {
+        "13": "牧师视野"
+    },
+    "MissionaryApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "MissionaryTellDeparture": {
+        "13": "通知玩家被传教"
+    },
+    "MissionaryDepartureMinTime": {
+        "13": "传教后自杀的最少时间"
+    },
+    "MissionaryDepartureMaxTime": {
+        "13": "传教后自杀的最大时间"
+    },
+    "MissionaryPropagateRange": {
+        "13": "传教范围"
+    },
+    "MissionaryAbilityCoolTime": {
+        "13": "技能冷却时间"
+    },
+    "MissionaryIntroDescription": {
+        "13": "让我们为船员描述地狱的美好"
+    },
+    "MissionaryShortDescription": {
+        "13": "开展一些传教活动"
+    },
+    "MissionaryFullDescription": {
+        "13": "第三阵营\n胜利条件：活到最后\n可以对其他玩家进行传教\n被传教的玩家在一段时间后自杀"
+    },
+    "propagate": {
+        "13": "传教"
+    },
+    "departureText": {
+        "13": "可怜的小羔羊，你即将去往天堂"
+    },
+    "Jester": {
+        "13": "小丑"
+    },
+    "JesterSpawnRate": {
+        "13": "小丑生成概率"
+    },
+    "JesterRoleNum": {
+        "13": "小丑最大个数"
+    },
+    "JesterHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "JesterVison": {
+        "13": "小丑视野"
+    },
+    "JesterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "JesterUseSabotage": {
+        "13": "小丑可以破坏"
+    },
+    "JesterOutburstDistance": {
+        "13": "可触发暴怒的距离"
+    },
+    "JesterAbilityCoolTime": {
+        "13": "暴怒冷却时间"
+    },
+    "JesterAbilityActiveTime": {
+        "13": "暴怒持续时间"
+    },
+    "JesterAbilityCount": {
+        "13": "暴怒最大数量"
+    },
+    "JesterIntroDescription": {
+        "13": "好耶，我要被票出去了"
+    },
+    "JesterShortDescription": {
+        "13": "在会议中博取他人的怀疑"
+    },
+    "JesterFullDescription": {
+        "13": "第三阵营\n胜利条件：被票出去\n由于Innersloth真的太逊了，游戏可能反应不过来，小丑胜利时也可能显示错误\n技能暴怒使目标一段时间内强制激活击杀\n没有击杀能力的玩家也可以成为目标\n但如果满足以下任一条件，击杀不会生效\n①：目标玩家不具备击杀能力\n②：目标成为的玩家的击杀范围内没有玩家\n③：击杀目标玩家的目标是小丑自己"
+    },
+    "outburst": {
+        "13": "暴怒"
+    },
+    "Yandere": {
+        "13": "杨德尔"
+    },
+    "YandereSpawnRate": {
+        "13": "杨德尔生成概率"
+    },
+    "YandereRoleNum": {
+        "13": "杨德尔最大个数"
+    },
+    "YandereHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "YandereVison": {
+        "13": "杨德尔视野"
+    },
+    "YandereApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "YandereTargetKilledKillCoolReduceRate": {
+        "13": "击杀干扰者后冷却减少率"
+    },
+    "YandereNoneTargetKilledKillCoolMultiplier": {
+        "13": "击杀非干扰者后冷却增加"
+    },
+    "YandereBlockTargetTime": {
+        "13": "单恋者与干扰者的距离"
+    },
+    "YandereSetTargetRange": {
+        "13": "设置目标范围"
+    },
+    "YandereSetTargetTime": {
+        "13": "设置目标时间"
+    },
+    "YandereMaxTargetNum": {
+        "13": "最大目标个数"
+    },
+    "YandereRunawayTime": {
+        "13": "干扰者失控后多长时间离开"
+    },
+    "YandereHasOneSidedArrow": {
+        "13": "显示指向单恋者的箭头"
+    },
+    "YandereHasTargetArrow": {
+        "13": "显示指向干扰者的箭头"
+    },
+    "YandereIntroDescription": {
+        "13": "{0}是我哒"
+    },
+    "YandereShortDescription": {
+        "13": "杀死所有接近{0}的情敌"
+    },
+    "YandereFullDescription": {
+        "13": "第三阵营\n胜利条件1：如果满足以下条件，此时单恋者同时获胜\n第三阵营全军覆没\n剩下来的人是同阵营或单恋\n胜利条件2：与自己以外的一名剩下来的好人（船员等）在游戏开始时，决定一个人“单恋”。\n在“单恋者”一定距离内停留一定时间或以上的船员，会被标记为“干扰者”\n注册“干扰者”时授予击杀能力\n“干扰者”被消除时失去击杀能力\n击杀“干扰者”时，击杀冷却冷却大大降低。如果你杀死了“干扰者”以外的任何东西（包括那些有单相思的人），冷却会增加\n增加或减少的冷却会在会议后重置\n如果不添加，下次会后会一直处于“失控”状态，直到开始下次见面\n“失控”状态总会获得击杀能力\n如果“单恋者”死了，永远处于“失控”状态"
+    },
+    "YandereShipJustForTwo": {
+        "13": "杨德尔的爱情已经成熟，与一个TA暗恋的人"
+    },
+    "Assassin": {
+        "13": "刺客"
+    },
+    "Marlin": {
+        "13": "梅林"
+    },
+    "AvalonsRolesSpawnRate": {
+        "13": "<color=#FF1919FF>刺客</color>和<color=#00ffff>梅林</color>生成概率"
+    },
+    "AvalonsRolesRoleNum": {
+        "13": "刺客和梅林最大组数"
+    },
+    "AvalonsRolesIsMultiAssign": {
+        "13": "可以拥有其他职业"
+    },
+    "AssassinHasOtherVison": {
+        "13": "刺客与船员拥有不一样的视野"
+    },
+    "AssassinVison": {
+        "13": "刺客视野"
+    },
+    "AssassinApplyEnvironmentVisionEffect": {
+        "13": "刺客熄灯不影响视野"
+    },
+    "AssassinHasOtherKillCool": {
+        "13": "刺客与伪装者拥有不一样的击杀冷却"
+    },
+    "AssassinKillCoolDown": {
+        "13": "刺客击杀冷却"
+    },
+    "AssassinHasOtherKillRange": {
+        "13": "刺客与伪装者拥有不一样的击杀范围"
+    },
+    "AssassinKillRange": {
+        "13": "刺客击杀范围"
+    },
+    "AssassinCanKilled": {
+        "13": "刺客可以被杀死"
+    },
+    "AssassinCanKilledFromCrew": {
+        "13": "刺客可以被船员杀死"
+    },
+    "AssassinCanKilledFromNeutral": {
+        "13": "刺客可以被中立杀死"
+    },
+    "AssassinCanSeeVote": {
+        "13": "刺客可以看到谁投票给谁"
+    },
+    "AssassinIsDeadForceMeeting": {
+        "13": "刺客死后强制召开会议"
+    },
+    "AssassinCanSeeRoleBeforeFirstMeeting": {
+        "13": "第一次会议前可以看到每个人职业"
+    },
+    "MarlinHasOtherVison": {
+        "13": "梅林与船员拥有不一样的视野"
+    },
+    "MarlinVison": {
+        "13": "美林视野"
+    },
+    "MarlinApplyEnvironmentVisionEffect": {
+        "13": "梅林熄灯不影响视野"
+    },
+    "MarlinHasTask": {
+        "13": "梅林有任务"
+    },
+    "MarlinCanSeeAssassin": {
+        "13": "梅林知道刺客"
+    },
+    "MarlinCanSeeVote": {
+        "13": "梅林可以看到谁投票给谁"
+    },
+    "MarlinCanSeeNeutral": {
+        "13": "梅林可以看到中立"
+    },
+    "MarlinCanUseVent": {
+        "13": "梅林可以使用管道"
+    },
+    "MarlinIntroDescription": {
+        "13": "无所不知，前景广阔，不被暗杀，带领船员走向胜利"
+    },
+    "MarlinShortDescription": {
+        "13": "带领船员走向胜利。 但不要暴露给刺客"
+    },
+    "MarlinFullDescription": {
+        "13": "他和刺客是知道伪装者是谁的一对关系\n如果没有分配刺客，则不会分配这个职业\n如果是刺客的特殊能力指定的，整个团队都会被击败。小心，因为刺客位置类似于伪装者"
+    },
+    "AssassinIntroDescription": {
+        "13": "找出谁知道真相，甩掉他"
+    },
+    "AssassinShortDescription": {
+        "13": "找到梅林，暗杀他"
+    },
+    "AssassinFullDescription": {
+        "13": "一对伪装者阵营，为伪装者阵营增加了新的胜利条件\n如果没有分配梅林，这个职业也不会分配\n胜利条件：用刺客的特殊能力击中马林\n刺客的特殊能力：特别会议“谁是梅林？”：\n所有人都可以参与但不能投票，除了激活能力的刺客，\n不能跳过，可以给死人投票\n如果投票投出去的是梅林，则跟伪装者一起获胜，否则\n游戏继续\n特殊能力激活条件：如果他被杀死或驱逐\n处理将根据设置而改变。\n因为除了上述能力外，他是普通的伪装者"
+    },
+    "whoIsMarine": {
+        "13": "谁是梅林？"
+    },
+    "assassinateMarinSucsess": {
+        "13": "是梅林"
+    },
+    "assassinateMarinFail": {
+        "13": "不是梅林"
+    },
+    "Lover": {
+        "13": "恋人"
+    },
+    "LoverSpawnRate": {
+        "13": "恋人生成概率"
+    },
+    "LoverAssignsNum": {
+        "13": "恋人有多少对"
+    },
+    "LoverRoleNum": {
+        "13": "恋人最大个数"
+    },
+    "LoverIsAssignImposter": {
+        "13": "有概率人狼恋"
+    },
+    "LoverImposterSelectedRate": {
+        "13": "人狼恋概率"
+    },
+    "LoverIsMultiAssign": {
+        "13": "可以拥有其他职业"
+    },
+    "LoverHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "LoverVison": {
+        "13": "恋人视野"
+    },
+    "LoverApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "LoverIsNeutral": {
+        "13": "恋人有中立阵营"
+    },
+    "LoverBecomNeutral": {
+        "13": "换到中立阵营"
+    },
+    "LoverDethWhenUnderAlive": {
+        "13": "恋人同生共死"
+    },
+    "LoverHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "LoverKillCoolDown": {
+        "13": "恋人击杀冷却"
+    },
+    "LoverHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "LoverKillRange": {
+        "13": "恋人击杀范围"
+    },
+    "LoverBecomeNeutralLoverHasOtherVison": {
+        "13": "中立恋人与船员拥有不一样的视野"
+    },
+    "LoverBecomeNeutralLoverVison": {
+        "13": "中立恋人视野"
+    },
+    "LoverBecomeNeutralLoverApplyEnvironmentVisionEffect": {
+        "13": "中立恋人熄灯不影响视野"
+    },
+    "LoverBecomeNeutralLoverCanUseVent": {
+        "13": "中立恋人可以使用管道"
+    },
+    "LoverIntroDescription": {
+        "13": "把自己托付给心爱的人"
+    },
+    "LoverShortDescription": {
+        "13": "与爱人活下去"
+    },
+    "LoverFullDescription": {
+        "13": "多名船员\n胜利条件1：船员胜利，但如果同组中有另一个阵营的人\n该人会失败\n胜利条件2：其他幸存者在同组以下然后，同组的所有任务都会已完成\n（此胜利条件只有在同一组中有不同阵营的人时才有效）\n胜利条件3：如果满足以下所有条件\n①：其他幸存者在同一组或更少\n ②：没有伪装者了\n ③：同一组中有不同阵营的人 \n ④：所有其他幸存者都是好人 \n ③ 与另一个阵营的人是同一组 \n 如果同组人数少于一定人数时，会改变\n到第三阵营\n自杀的人数会根据设定而改变"
+    },
+    "LoverImposterFullDescription": {
+        "13": "多个伪装者\n胜利条件1：伪装者胜利，但如果同组中有另一个阵营的人\n，则该人会失败\n胜利条件2：幸存者小于或等于同组且同组所有任务均已完成\n（此胜利条件仅在同组有不同阵营人员时有效）\n胜利条件3：满足以下所有条件时\n①：其他幸存者在同一组或更少\n②：同一组中有来自不同阵营的人\n③：所有其他幸存者都是船员或伪装者\n同一组中有一定数量的人如果变成以下, 会改到第三阵营 \n 会根据设定进行自杀的人数会有所变化"
+    },
+    "LoverNeutralFullDescription": {
+        "13": "多个中立\n胜利条件1：幸存者必须小于或等于同组，但如果中立阵营内有击杀能力的人\n则游戏继续\n胜利条件2：幸存者小于等于同组\n同组所有任务完成\n同组人数小于一定人数时自杀\n自杀人数因设置而异"
+    },
+    "LoverNeutralKillerFullDescription": {
+        "13": "一群因同伴的怨恨而变成杀人犯的多人。"
+    },
+    "LoverKillerShortDescription": {
+        "13": "报复杀害其他人的的坏人"
+    },
+    "curLover": {
+        "13": "恋人"
+    },
+    "LoverIntoPlus": {
+        "13": "爱上了"
+    },
+    "Supporter": {
+        "13": "天使"
+    },
+    "EvilSupporter": {
+        "13": "邪恶天使"
+    },
+    "NiceSupporter": {
+        "13": "正义天使"
+    },
+    "SupporterSpawnRate": {
+        "13": "天使生成概率"
+    },
+    "SupporterRoleNum": {
+        "13": "天使最大个数"
+    },
+    "SupporterIsAssignImposter": {
+        "13": "天使可能是是伪装者"
+    },
+    "SupporterImposterSelectedRate": {
+        "13": "天使是伪装者概率"
+    },
+    "SupporterHasOtherVison": {
+        "13": "与船员拥有不一样的视野"
+    },
+    "SupporterVison": {
+        "13": "天使视野"
+    },
+    "SupporterApplyEnvironmentVisionEffect": {
+        "13": "熄灯不影响视野"
+    },
+    "SupporterHasOtherKillCool": {
+        "13": "与伪装者拥有不一样的击杀冷却"
+    },
+    "SupporterKillCoolDown": {
+        "13": "天使击杀冷却"
+    },
+    "SupporterHasOtherKillRange": {
+        "13": "与伪装者拥有不一样的击杀范围"
+    },
+    "SupporterKillRange": {
+        "13": "天使击杀范围"
+    },
+    "SupporterIntroDescription": {
+        "13": "{0}是一个{1}，全力支持他"
+    },
+    "SupporterShortDescription": {
+        "13": "帮助你的目标"
+    },
+    "SupporterFullDescription": {
+        "13": "游戏开始时，只有一名船员是你的目标\n只有你一个人知道他的职业并且可以支持那个人\n如果梅林被分配给你，则将支持梅林\n否则支持目标随机确定\n当前目标：\n玩家姓名：{0}\n标题：{1}"
+    },
+    "SupporterImposterFullDescription": {
+        "13": "游戏开始时，只有一名船员是你的目标\n只有你一个人知道他的职业并且可以支持那个人\n如果梅林被分配给你，则将支持梅林\n否则支持目标随机确定\n当前目标：\n玩家姓名：{0}\n标题：{1}"
+    }
+}
